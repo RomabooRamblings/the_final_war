@@ -1,0 +1,357 @@
+﻿"Test_ERE"={
+	country="ERE"
+	1={
+		first_name="Matthew"
+		family_name=" "
+		nickname="'the Publican'"
+		birth_date=-20.1.1
+		death_date=90.1.1
+		culture="hebrew"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=5
+		add_charisma=12
+		add_finesse=12
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="silver_tongued"
+		dna="Kdwp3JqGmoa5v7m/AosCiwJnAmcChAKEAoACgAJ0AnQCkwKTApgCmAKBAoECeAJ4AmYCZgKBAoEARQBFAo0CjQKQApACkgKSAooCigOfA58CawJrAmcCZwJ7AnsCkAKQAocChwKYApgCgQKBAoECgQKBAoECZwJnAnMCcwJ4AngCiwKLAnsCewKLAosCeAJ4ApYClgJsAmwCaQJpAoICggKBAoEBVgFWAnoCegJuAm4CeQJ5AmYCZgJ8AnwCbwJvAnACcAJ7AnsCiAKIAD0APQKSApICbwJvAmkCaQJmAmYClAKUAo4CjgLpAukBTAFMAqoCqgFwAXABRAFEAVcBVwCXAJcCnAKcAEkASQB7AHsACgAKAIkAiQAAAAAAigCKAXsBewEBAQEBYAFgAoECgQA1ADUClwKXAA4ADgAAAAABXQFdAC8ALwBEAEQBSgFKAAwADADOAM4BGQEZA3QDdAEyATIASwBLAVABUABiAGIKXwpfAAAAAASmBKYF/wX/AHwAfAXzBfMClwKXAvUC9QAAAAAAAAAAAAAAAA=="
+	}
+	26={
+		first_name="Mark"
+		family_name=" "
+		nickname="'the Evangelist'"
+		birth_date=12.1.1
+		death_date=68.1.1
+		culture="greek"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=5
+		add_charisma=12
+		add_finesse=12
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="silver_tongued"
+		dna="TOJM4ol+iX7iyeLJAmgCaAJyAnICiAKIAn4CfgJvAm8ChAKEAnYCdgOeA54BWAFYAVIBUgKDAoMCegJ6AmwCbAKIAogCggKCApECkQJ6AnoChwKHAnkCeQJoAmgChwKHAm4CbgKJAokCdQJ1AnUCdQKPAo8DrgOuApACkAJ2AnYCfAJ8AWIBYgFeAV4ChwKHAmgCaAJnAmcCbgJuAmsCawJwAnACigKKAoUChQJ1AnUCgwKDAnQCdAFOAU4CawJrAo0CjQFVAVUCdwJ3AWQBZAKYApgDogOiAoACgAKBAoECgwKDAn4CfgLRAtEAkwCTAXEBcQCtAK0CwALAAVMBUwBdAF0BLgEuAPoA+gFRAVEAKQApABcAFwAAAAAATwBPAGoAagCWAJYBCgEKAKkAqQK2ArYAwQDBAK8ArwAAAAAA4QDhAvkC+QD3APcAuQC5AvsC+wNZA1kAtQC1APMA8wBGAEYAFQAVA3ADcAFVAVUKxwrHAAAAAAPGA8YFSgVKAJgAmAVLBUsCEQIRAo8CjwAAAAAAAAAAAAAAAA=="
+	}
+	30={
+		first_name="Constantine"
+		family_name="Augustus"
+		nickname="NICKNAME_THE_GREAT"
+		birth_date=272.2.27
+		death_date=337.5.22
+		culture="roman"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=16
+		add_charisma=14
+		add_finesse=16
+		add_zeal=12
+		no_traits=yes
+		add_trait="brave"
+		add_trait="victorious"
+		add_trait="ambitious"
+		add_trait="devout"
+		add_trait="silver_tongued"
+		dna="A+cD55VxlXH+vP68AoACgAJpAmkChgKGAnUCdQKSApICmQKZAogCiAJ5AnkAHgAeAnwCfAObA5sCcAJwApMCkwKOAo4CigKKBNQE1ATXBNcCcAJwApQClAJuAm4CeQJ5AEoASgKHAocCbgJuAnUCdQKKAooCkAKQAn8CfwBJAEkCjgKOAWIBYgKBAoEChwKHAn0CfQJnAmcCegJ6AmkCaQJ9An0CkAKQAmsCawJ+An4BYQFhAnoCegJ7AnsCcwJzAnoCegKOAo4CfgJ+AnICcgKFAoUCbQJtAmsCawJ1AnUCdwJ3AnkCeQI7AjsBUAFQAHoAegF0AXQAVABUAqkCqQCoAKgBNQE1AAYABgEtAS0BOAE4AJcAlwAAAAAA4wDjAH4AfgFXAVcAHAAcApECkQCkAKQAPQA9AN8A3wAAAAABZwFnAPQA9ABGAEYAEQARAQQBBAT9BP0AyADIAxgDGAAhACEDHQMdAAAAAAC7ALsCVQJVAAAAAAKjAqMBdQF1ALUAtQmECYQB1QHVAKAAoAAAAAAAAAAAAAAAAA=="
+	}
+	43={
+		first_name="Mary"
+		nickname="'Mother of God'"
+		family = " "
+		birth_date=-19.1.1
+		death_date=40.1.1
+		female=yes
+		add_martial=03
+		add_charisma=16
+		add_finesse=08
+		add_zeal=30
+		no_stats=yes
+		no_traits=yes
+		add_trait="devout"
+		add_trait="silver_tongued"
+		culture="hebrew"
+		religion="chalcedonian"
+		dna="Heod6rh3uHdkW2RbAogCiAJmAmYCjwKPAnYCdgJuAm4CagJqA5oDmgJ8AnwBXQFdAnsCewJmAmYCiwKLAo8CjwKRApECcAJwAo0CjQJ1AnUCZwJnAo8CjwKZApkCfAJ8AVABUATXBNcCZwJnApUClQKVApUChgKGApkCmQKHAocCjQKNAoMCgwJzAnMCfQJ9AoUChQKGAoYCcAJwAngCeAA3ADcCggKCAmcCZwKZApkCfAJ8ApgCmAKLAosCZgJmAVsBWwJuAm4CZgJmAVMBUwJ0AnQCaAJoAogCiAKXApcClQKVAn8CfwJdAl0C7wLvAC0ALQLYAtgBYwFjAIsAiwElASUBXgFeAVQBVAF3AXcA+QD5AQEBAQAAAAAC2ALYAI4AjgCBAIEAJwAnAFgAWABEAEQAVgBWAPAA8AAAAAAA/wD/AQkBCQAxADEBdgF2AN4A3gMWAxYCugK6BIkEiQB0AHQBUAFQAM8AzwERAREF4wXjAAAAAANhA2EBlwGXANYA1gkyCTIBXwFfAF8AXwAAAAAAAAAAAAAAAA=="
+	}
+	44={
+		first_name="Simon Peter"
+		family_name=" "
+		nickname="'the Rock'"
+		birth_date=-20.1.1
+		death_date=67.1.1
+		culture="hebrew"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=5
+		add_charisma=15
+		add_finesse=10
+		add_zeal=15
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="brave"
+		dna="Z+Vn5bSJtImu4K7gAnECcQFhAWECdQJ1ACQAJAKFAoUCZwJnAWEBYQTeBN4CdAJ0Am0CbQKBAoEDtAO0An4CfgJ7AnsCeQJ5AnUCdQKZApkCegJ6Ao8CjwJtAm0CcgJyApACkAJwAnACdgJ2AVwBXAKIAogChwKHAogCiAJ+An4CbwJvAm0CbQJmAmYBZgFmApQClAJ4AngCkAKQAnECcQKHAocBYgFiBOQE5AKWApYCjwKPAnoCegOlA6UCgwKDAoUChQFbAVsALgAuAn8CfwKYApgCjgKOADkAOQJvAm8CfAJ8ApECkQIDAgMBdQF1AHwAfAF4AXgBTwFPASoBKgA0ADQBHwEfAT8BPwFFAUUDHwMfAKMAowAAAAAAFAAUArACsAAzADMCvAK8AKUApQCFAIUB1gHWAOIA4gAAAAAAmACYAV4BXgCsAKwAxQDFAAUABQC8ALwBLgEuAyEDIQFlAWUCmAKYAUQBRACHAIcI6gjqAAAAAAX8BfwENgQ2AeAB4AL4AvgDMAMwA0cDRwAAAAAAAAAAAAAAAA=="
+	}
+	45={
+		first_name="George"
+		family_name=" "
+		nickname="'The Dragon Slayer'"
+		birth_date=278.1.2
+		death_date=303.1.2
+		culture="cappadocian"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=12
+		add_charisma=10
+		add_finesse=10
+		add_zeal=15
+		no_traits=yes
+		add_trait="devout"
+		add_trait="brave"
+		add_trait="steadfast"
+		dna="AtGntKCCoIIwojCiA68DrwJ4AngCfQJ9AmsCawJ9An0CmAKYAnkCeQJvAm8ChQKFAmoCagJ/An8CZwJnAEUARQKAAoACaAJoAoACgAFbAVsBVQFVAooCigA2ADYClAKUAowCjAKDAoMChQKFAmwCbAJtAm0CcQJxAngCeAJ2AnYCmAKYAnMCcwKTApMChgKGBMQExAKSApICcwJzAoUChQKHAocCgQKBAn4CfgJqAmoE5QTlAoACgAKVApUCiwKLAVkBWQJpAmkCawJrAm8CbwKEAoQClAKUAn8CfwKMAowCjgKOA5kDmQLKAsoBMwEzAG8AbwB9AH0ARABEAUgBSAFOAU4CnAKcAX4BfgClAKUAQABAAEQARAAAAAAAEQARAOUA5QAYABgBagFqAsECwQEtAS0ApQClAr4CvgAAAAACqgKqACMAIwDMAMwAcwBzANQA1AMQAxABCgEKAJQAlAADAAMDegN6ALYAtgDIAMgC+wL7AAIAAABWAFYFxwXHADAAMAWVBZUCPgJMAqgCqAAAAAAAAAAAAAAAAA=="
+	}
+	#Do Christian Worship The Archangel? I know I don't- Elite
+	46={
+		first_name="Michael"
+		family_name=" "
+		nickname="'the Archangel'"
+		birth_date=-752.1.2
+		death_date=-730.1.2
+		culture="hebrew"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=20
+		add_charisma=20
+		add_finesse=20
+		add_zeal=20
+		no_traits=yes
+		add_trait="zealous"
+		add_trait="brave"
+		add_trait="just"
+		add_trait="confident"
+		add_trait="disciplined"
+		dna="lSh5nI52jnav6q/qAokCiQKEAoQCiAKIAnUCdQKFAoUCfgJ+Ao4CjgKUApQCfAJ8AmcCZwJsAmwCegJ6ApICkgJtAm0CcgJyAoICggTCBMIAJQAlAogCiAFeAV4CegJ6An4CfgKTApMCgQKBAn4CfgKBAoEClAKUAm4CbgJpAmkCcAJwAoICggOfA58ChAKEAVEBUQJ/An8BXgFeApYClgJ3AncCgQKBAmgCaAKVApUChQKFApMCkwKYApgClwKXAV4BXgJzAnMCcAJwAmYCZgJuAm4DqgOqApMCkwJ5AnkCcgJyAn4CfgLnAucAWgBaAKoAqgKQApABGwEbAIUAhQFoAWgALAAsANMA0wEBAQEAqwCrAX4BfgAAAAABMQExAqkCqQBbAFsCrgKuACEAIQCgAKABRgFGAI4AjgAAAAACuwK7AV4BXgDRANEA/QD9AosCiwEmASYArACsAN8A3wF8AXwAVgBWATEBMQCeAJ4MigyKAAIAAAH7AfsFuwV5AOcA5wXbBdsCDgIOAsICwgAAAAAAAAAAAAAAAA=="
+	}
+	47={
+		first_name="Nicholas"
+		family_name=" "
+		nickname="'the Wonderworker'"
+		birth_date=270.4.15
+		death_date=343.12.6
+		culture="greek"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=3
+		add_charisma=12
+		add_finesse=8
+		add_zeal=15
+		no_traits=yes
+		add_trait="devout"
+		add_trait="brave"
+		add_trait="zealous"
+		dna="PSsN/40vxYLFkcWRAnwCfAKJAokCaQJpAV8BXwKUApQCigKKAm8CbwJqAmoCewJ7An0CfQJzAnMCfAJ8AWMBYwJnAmcEngSeAnYCdgKLAosCdwJ3ApkCmQTDBMMCagJqAn8CfwKZApkCmQKZAn0CfQJqAmoCZgJmAocChwBFAEUCcgJyAmcCZwJuAm4DqgOqA6gDqAKPAo8CbgJuAmcCZwKNAo0CewJ7AoYChgKVApUCaQJpAngCeAJoAmgCfgJ+AmoCagJwAnAChQKFAoACgAKHAocE0wTTA7EDsQKNAo0ClQKVApkCmQJjAmMAQwBDAMQAxAFLAUsBIQEhALoAugCoAKgC3QLdAvEC8QBDAEMApACkAM8AzwAAAAAATQBNAGAAYAE/AT8AewB7AI0AjQEGAQYApwCnAN0A3QAAAAABNgE2ApQClAFMAUwA7QDtAs4CzgMPAw8ALAAsAJoAmgKkAqQABAAEAN8A3wFjAWMAhANbAAIAAATABG4BewWPAJsAmwB+BdsBdQL4ANECegAAAAAAAAAAAAAAAA=="
+	}
+#		Whom?-Elite
+	48={
+		first_name="Anne"
+		family_name=" "
+		birth_date=-103.1.1
+		death_date=-33.1.1
+		female=yes
+		add_martial=03
+		add_charisma=12
+		add_finesse=05
+		add_zeal=20
+		no_stats=yes
+		no_traits=yes
+		add_trait="devout"
+		add_trait="humble"
+		culture="hebrew"
+		religion="chalcedonian"
+		dna="Heod6rh3uHdkW2RbAogCiAFLAmYCjwKPAnYCdgJuAm4CagJqA5oDmgJ8AnwBXQFdAnsCewJmAmYCiwKLAo8CjwKRApECcAJwAo0CjQJ1AnUCZwJnAo8CjwKZApkCfAJ8AVABUATXBNcCZwJnApUClQKVApUChgKGApkCmQKHAocCjQKNAm4CgwJzAnMCPgJ9AoUChQKGAoYCcAJwAngCeACWADcCggKCAmcCZwKZApkCfAJ8ApgCmAKLAosCZgJmAVsBWwI9Am4CZgJmAVMBUwJ0AnQCXQJoAogCiAKXApcCwAKVAn8CfwJdAl0C7wLvAC0ALQLYAtgBYwFjAIsAiwElASUBXgFeAVQBVAF3AXcA+QD5AQEBAQAAAAAC2ALYAI4AjgCBAIEAJwAnAFgAWABEAEQAVgBWAPAA8AAAAAAA/wD/AQkBCQAxADEBdgF2AN4A3gMWAxYCugK6BIkEiQB0AHQBUAFQAM8AzwERAREI/wXjAAIAAANhA2EFUgGXANYA1gkyCTICGgFfAF8AXwAAAAAAAAAAAAAAAA=="
+	}
+	49={
+		first_name="John"
+		family_name=" "
+		nickname="'Chrysostom'"
+		birth_date=347.1.1
+		death_date=401.9.14
+		add_martial=03
+		add_charisma=12
+		add_finesse=05
+		add_zeal=20
+		no_stats=yes
+		no_traits=yes
+		add_trait="devout"
+		add_trait="generous"
+		add_trait="righteous"
+		culture="greek"
+		religion="chalcedonian"
+		add_trait="silver_tongued"
+		dna="bOhs6LpyvoLi2+LbAm0CbQKJAokCZgJmAoQChAKWApYClAKUAU0BTQKFAoUCZgJmAnYCdgKMAowCowKjApYClgF3AU0CagJqAnsCewJtAm0CmAKYA50DnQJ1AnUCkwKTAnoCegFcAVwCdgJ2An8CfwJwAnAE0ATQAmwCbAKMAowChgKGAo0CjQJqAmoBXwFfAm0CbQKJAokCewJ7AnYCdgKPAo8BZQFlAooCigFbAVsCfAJ8AoMCgwKHAocClQKVAoACgAFaAVoCjwKPAoECgQKHAocCewJ7AnkCeQAcABwCfwJ/An4CfgJGAkYAoQChAHQAdAD8APwBDgEOADYANgAhACEAKAAoATgBOACwALAAZgBmACkAKQAAAAAAMQAxAEwATAC0ALQBNgE2AHMAcwCGAIYAmwCbAL8AvwAAAAAADQANALUAtQE9AT0ABwAHAVUBVQC6ALoAPAA8A1IDUgFfAV8EfgR+AWABYAMJAwkMAAzdAAAAAAWyBbIEAAQ3AbsBuwLIArUDDQMNA1ED/AAAAAAAAAAAAAAAAA=="
+	}
+	50={
+		first_name="Ephraim"
+		family_name=" "
+		nickname="'the Syrian'"
+		birth_date=306.1.1
+		death_date=373.6.9
+		add_martial=03
+		add_charisma=12
+		add_finesse=05
+		add_zeal=20
+		no_stats=yes
+		no_traits=yes
+		add_trait="pious"
+		culture="aramaic"
+		religion="chalcedonian"
+		add_trait="silver_tongued"
+		dna="1Nho8aaHpoeux67HAWEBYQKXApcDoQOhAVEBUQKXApcCfAJ8AmkCaQKMAowClwKXAoMCgwAkACQCjwKPApYClgOvA68CiAKIAmkCaQJyAnICiwKLAmwCbAJ5AnkCdAJ0AnECcQJoAmgClAKUABcAFwJ9An0CjQKNAnoCegJpAmkCeAJ4Am0CbQKAAoACcgJyAmYCZgJ+An4CfAJ8AV8BXwJxAnECbgJuAWYBZgJ7AnsCcgJyApECkQKFAoUCggKCA6kDqQJ/An8CgwKDAnQCdAKJAokCiAKIA4kDiQJvAm8CeAJ4AmcCZwLXAtcA3ADcAKwArABrAGsCwQLBAIsAiwDzAPMAOwA7AGUAZQDAAMAC/wL/AL8AvwAAAAAAcgByASYBJgBnAGcBUwFTAEEAQQBOAE4ALgAuANsA2wAAAAAAngCeAsICwgApACkAAwADALYAtgA7ADsAlACUA3ADcABlAGUCrQKtATcBNwAPAA8GjgaOAAAAAAULBQsKRgTSAU0BTQaqApADYANgA5IDkgAAAAAAAAAAAAAAAA=="
+	}
+	51={
+		first_name="John"
+		family_name=" "
+		nickname="'the Baptist'"
+		birth_date=-15.1.1
+		death_date=32.1.1
+		add_martial=03
+		add_charisma=12
+		add_finesse=05
+		add_zeal=20
+		no_stats=yes
+		no_traits=yes
+		add_trait="devout"
+		add_trait="blunt"
+		add_trait="righteous"
+		culture="hebrew"
+		religion="chalcedonian"
+		dna="Ae4B7qCNoI3a59rnAWABYAJuAm4CcAJwAVUBVQJ0AnQCfAJ8ApcClwKBAoEClQKVAnQCdAJ2AnYCmQKZAokCiQFcAVwDsQOxAnMCcwKXApcCdwJ3AnkCeQJ5AnkCjgKOAmsCawKGAoYCdgJ2AnMCcwKCAoICkgKSAC0ALQJxAnECbwJvAmsCawKEAoQChgKGAnkCeQJsAmwDmQOZAmYCZgKBAoEChAKEAnACcAKFAoUCkgKSAoMCgwOmA6YDsAOwApUClQFcAVwCkAKQA6ADoAKfAp8CigKKAm8CbwJmAmYCZwJnAVoBWgLOAs4BcgFyABsAGwL2AvYBMwEzAsgCyADTANMC3QLdASoBKgKMAowAJAAkANgA2AAAAAAASQBJAEUARQLfAt8AawBrAo4CjgD/AP8AkQCRAo4CjgAAAAAC7ALsAtwC3ADuAO4AUgBSANoA2gDBAMEAbwBvAy8DLwDDAMMEawRrAu0C7QCYAJgEngSeAAAAAAVYBVgE6AQ7AQkBCQL8AoUDMgOFA/8DpAAAAAAAAAAAAAAAAA=="
+	}
+	52={
+		first_name="Basil"
+		family_name=" "
+		nickname="'of Caesarea'"
+		birth_date=330.1.1
+		death_date=379.1.2
+		culture="cappadocian"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="brave"
+		add_trait="chaste"
+		dna="Df8N/6lnxYLFkcWRAnwCfAKJAokCaQJpAV8BXwKUApQCigKKAm8CbwJqAmoCewJ7An0CfQJzAnMCfAJ8AWMBYwJnAmcEngSeAnYCdgKLAosCdwJ3ApkCmQTDBMMCagJqAn8CfwKZApkCmQKZAn0CfQJqAmoCZgJmAocChwBFAEUCcgJyAmcCZwJuAm4DqgOqA6gDqAKPAo8CbgJuAmcCZwKNAo0CewJ7AoYChgKVApUCaQJpAngCeAJoAmgCfgJ+AmoCagJwAnAChQKFAoACgAKHAocE0wTTA7EDsQKNAo0ClQKVApkCmQJjAmMAQwBDAMQAxAFLAUsBIQEhALoAugCoAKgC3QLdAvEC8QBDAEMApACkAM8AzwAAAAAATQBNAGAAYAE/AT8AewB7AI0AjQEGAQYApwCnAN0A3QAAAAABNgE2ApQClAFMAUwA7QDtAs4CzgMPAw8ALAAsAJoAmgKkAqQABAAEAN8A3wFjAWMAhwNbAAIAAATgBG4BewWPAJsAmwBsBdsCYwL4AF8CegAAAAAAAAAAAAAAAA=="
+	}
+	53={
+		first_name="Gregory"
+		family_name=" "
+		nickname="'Nanzianzus'"
+		birth_date=329.1.1
+		death_date=390.1.25
+		culture="greek"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="brave"
+		add_trait="chaste"
+		add_trait="modest"
+		add_trait="silver_tongued"
+		dna="MiRv4buFu4WxqrGqAoQChAKXApcCkgKSAo4CjgJrAmsDsAOwAnoCegTFBMUCZgJmAVMBUwJ8AnwClAKUAmsCawKNAo0CdAJ0AVkBWQJvAm8ChAKEAosCiwJ7AnsBawFrAnkCeQKPAo8ChAKEADIAMgKCAoIClQKVAo8CjwKNAo0DrgOuAm0CbQJ2AnYCaAJoApACkAJvAm8CewJ7AoQChAKYApgDqQOpAn4CfgKWApYCkQKRApICkgBMAEwCfwJ/A6ADoAJ2AnYCbAJsAn0CfQKIAogCigKKAncCdwSyBLICjAKMApYClgFwAXAAYgBiAVMBUwDYANgAIQAhALwAvAFSAVIC+AL4ABIAEgERAREE9wT3AUMBQwAAAAAAbwBvAFwAXAFDAUMCxgLGAGcAZwATABMAbwBvASYBJgAAAAABPAE8ADEAMQFdAV0AywDLAIEAgQAzADMBKwErAI4AjgBVAFUBagFqAAYABgMkAyQAaABdAAAAAAH5AfkFoQXrAAoACgX0BW8CxwLHAgkCCQAAAAAAAAAAAAAAAA=="
+	}
+	54={
+		first_name="Mary"
+		family_name=" "
+		nickname="'of Egypt'"
+		birth_date=344.1.1
+		death_date=421.1.1
+		female=yes
+		culture="egyptian"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="pious"
+		add_trait="chaste"
+		add_trait="content"
+		dna="CuYK5oaXhpfL38vfApQClAKMAowCdgJ2ApMCkwJxAnECcAJwAowCjAJpAmkCiwKLA64DrgJnAmcChQKFAm4CbgKoAqgClAKUAVoBWgFaAVoCSAJIAqECoQKCAoIDqgOqBLgEuALMAswChQKFAoECgQJpAmkClAKUAnoCegKLAosCeQJ5ApQClAOoA6gCkAKQAo4CjgJxAnECgAKAAqYCpgJ2AnYCjgKOApACkAJzAnMBXgFeAo4CjgGhAaECxwLHAo4CjgKVApUCgwKDAn4CfgKcApwCbAJsAnMCcwJ0AnQCaAJoAocChwIbAhsAKQApALIAsgF5AXkCtQK1ABYAFgEfAR8BUwFTApsCmwDlAOUA+wD7APYA9gAAAAAAFgAWAPgA+AFIAUgBDQENADcANwCSAJIDcwNzAUcBRwAAAAACtgK2ABcAFwFQAVAANgA2AvMC8wBxAHEAqgCqAyYDJgCeAJ4BLQEtAWoBagEJAQkI0gjSAAAAAAUtBS0GoQ/bAb0BvQZUBlQCAQgGDAAMOgAAAAAAAAAAAAAAAA=="
+	}
+	55={
+		first_name="Macrina"
+		family_name=" "
+		nickname="the Younger"
+		birth_date=327.1.1
+		death_date=379.7.19
+		female=yes
+		culture="greek"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="chaste"
+		dna="Df8N/6lnxYLFkcWRAnwCfAKJAokCaQJpAV8BXwKUApQCigKKAm8CbwJqAmoCewJ7An0CfQJzAnMCfAJ8AWMBYwJnAmcEngSeAnYCdgKLAosCdwJ3ApkCmQTDBMMCagJqAn8CfwKZApkCmQKZAn0CfQJqAmoCZgJmAocChwBFAEUCcgJyAmcCZwJuAm4DqgOqA6gDqAKPAo8CbgJuAmcCZwKNAo0CewJ7AoYChgKVApUCaQJpAngCeAJoAmgCfgJ+AmoCagJwAnAChQKFAoACgAKHAocE0wTTA7EDsQKNAo0ClQKVApkCmQJjAmMAQwBDAMQAxAFLAUsBIQEhALoAugCoAKgC3QLdAvEC8QBDAEMApACkAM8AzwAAAAAATQBNAGAAYAE/AT8AewB7AI0AjQEGAQYApwCnAN0A3QAAAAABNgE2ApQClAFMAUwA7QDtAs4CzgMPAw8ALAAsAJoAmgKkAqQABAAEAN8A3wFjAWMAhwNbAAIAAATgBG4BewWPAJsAmwBsBdsCYwL4AF8CegAAAAAAAAAAAAAAAA=="
+	}
+	56={
+		first_name="Simeon"
+		family_name=" "
+		nickname="'Stylites'"
+		birth_date=390.1.1
+		death_date=459.9.3
+		culture="greek"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="pious"
+		add_trait="brave"
+		add_trait="humble"
+		dna="FvUW9ZaGlobFv8W/AU4BTgKKAooClAKUAVABUAJyAnIClQKVApECkQKKAooCcAJwAmcCZwKCAoICnQKdAmwCbAFdAV0ClwKXAocChwJpAmkDpAOkAnMCcwJyAnICeQJ5ApICkgFVAVUClAKUAWEBYQKGAoYCdwJ3Ao8CjwKIAogCiwKLAowCjAJtAm0CbgJuAosCiwKWApYCkwKTAnsCewKHAocCmAKYAnwCfAJnAmcCewJ7AocChwKOAo4CgwKDAncCdwJqAmoCfAJ8AEgASAKTApMCkwKTAVABUAKWApYCegJ6AoYChgLyAvIAZgBmAAcABwEcARwBGQEZAM8AzwEgASAAqACoApcClwAYABgDFQMVAO0A7QAAAAAA9AD0AKUApQARABEC+QL5AF8AXwK3ArcAwADAAQcBBwAAAAABBAEEAPoA+gAgACACuwK7AEIAQgKTApMBUAFQAh4CHgFQAVACzwLPAywDLAMRAxEBUQFRAAAAAAXNBc0KfgR+AboBugL/AmsDiwOLAz0DPQAAAAAAAAAAAAAAAA=="
+	}
+	57={
+		first_name="Augustine"
+		family_name=" "
+		nickname="'of Hippo'"
+		birth_date=354.11.13
+		death_date=430.8.28
+		culture="roman"
+		religion="chalcedonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=15
+		add_finesse=15
+		add_zeal=12
+		no_traits=yes
+		add_trait="devout"
+		add_trait="scholar"
+		add_trait="brave"
+		add_trait="silver_tongued"
+		add_trait="steadfast"
+		dna="BPkE+ZSVlJXoouiiApUClQKGAoYBYAFgApQClAJmAmYBZQFlAoMCgwJ5AnkCdAJ0AmwCbAKAAoADowOjAmsCawTVBNUCbAJsApECkQJ5AnkCSAJIApsCmwFPAU8DsAOwAocChwK/Ar8BVAFUAm8CbwOpA6kCjQKNAWABYAJsAmwEwgTCAoACgAKDAoMCdQJ1AooCigKMAowDqAOoArICsgFZAVkCagJqAnICcgA8ADwCdQJ1AnYCdgLKAsoCzALMAU4BTgKFApYCegJ6AEMAQwKfAp8CbAJsAmACdwFMAUwCfgJ+AoYChgL4AvgAWgBaAIYAhgFTAVMCwALAALAAsAFmAWYArQCtAQIBAgEBAQEBMQExAo0CjQAAAAAAgACAAHgAeADuAO4A5gDmADMAMwL/Av8DTwNPAKwArAAAAAABGQEZAB0AHQB6AHoAvAC8AN8A3wF4AXgApACkAyUDJQDaANoBGgEaAqwCrAIAAgAGkQaRAAAAAAWhBbIBmg98AQ0BDQYeBh4IJQglDKkMqQAAAAAAAAAAAAAAAA=="
+	}
+}

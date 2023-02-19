@@ -1,0 +1,106 @@
+﻿country_decisions = {
+	
+	# Form Brittania
+	form_britannia = {
+		
+		potential = {
+			num_of_cities >= 1
+			primary_culture = brittania
+			NOR = {
+				tag = BRA
+				tag = HRE
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2022 #London
+					province_id = 2025 #York/Ebotacum
+					province_id = 2028 #Canuloduum
+					province_id = 2029 #Combertovium
+					province_id = 2026 #Duroconovium
+					province_id = 2007 #Durnovaria
+					province_id = 2003 #Dumnonia
+					province_id = 2012 #cunetio
+					province_id = 2047 #Deva
+					province_id = 2083 #Liguvalium
+					province_id = 2044 #Lactodorum
+					province_id = 2058 #Lindom
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_britannia_exists
+				NOT = {
+					any_country = {
+						tag = BRA
+					}
+				}
+			}
+			owns_or_subject_owns = 2022 #London
+			owns_or_subject_owns = 2025 #York/Ebotacum
+			owns_or_subject_owns = 2028 #Canuloduum
+			owns_or_subject_owns = 2029 #Combertovium
+			owns_or_subject_owns = 2026 #Duroconovium
+			owns_or_subject_owns = 2007 #Durnovaria
+			owns_or_subject_owns = 2003 #Dumnonia
+			owns_or_subject_owns = 2012 #cunetio
+			owns_or_subject_owns = 2047 #Deva
+			owns_or_subject_owns = 2083 #Liguvalium
+			owns_or_subject_owns = 2044 #Lactodorum
+			owns_or_subject_owns = 2058 #Lindom
+			can_form_nation_trigger = yes
+		#	OR = {
+		#		is_monarchy = yes
+		#		is_republic = yes
+		#	}
+		}
+		
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = "BRITANNIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "BRITANNIA_ADJECTIVE"
+				change_country_color =  "samnite_red"
+				change_country_tag = BRA
+				change_country_flag = BRA
+			}
+			if = {
+				limit = {
+					NOT = {
+						capital_scope = {
+							province_id = 2022
+						}
+					}
+				}
+				set_capital = 2022
+			}
+			p:2022 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_country_modifier = {
+				name = formable_country_huge_modifier
+				duration = 7600
+			}
+			add_3_free_province_investments = yes
+			custom_tooltip = "form_britain_claims_tooltip"
+			hidden_effect = {
+				every_province = {
+					limit = {
+						is_in_region = britain_region
+						NOT = { owner = ROOT }
+					}
+					add_claim = ROOT
+				}
+			}
+		}
+		ai_will_do = {
+			base = 1
+		}
+	}
+}
+
