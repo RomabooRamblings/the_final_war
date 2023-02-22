@@ -16,6 +16,8 @@ BRI = "setup/countries/west/britons.txt"
 BUR = "setup/countries/west/burgundians.txt"
 SUE = "setup/countries/west/suebians.txt"
 BAS = "setup/countries/west/basques.txt"
+#AUS = "setup/countries/west/austrasia.txt"
+#NEU = "setup/countries/west/neustria.txt"
 
 #BERBERS
 ALT = "setup/countries/southwest/altava.txt"
