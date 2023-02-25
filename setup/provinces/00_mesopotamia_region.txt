@@ -155,6 +155,15 @@
 	}
 }
 
+832 = { #Nisibis
+province_rank="city"
+}
+
+841 = { #Amida
+province_rank="city"
+}
+
+
 883={ #Ashur
 	terrain="plains"
 	culture="assyrian"
