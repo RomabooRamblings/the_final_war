@@ -1,4 +1,8 @@
-﻿824={ #Qatnu
+﻿821 = { #Constantia
+province_rank="city"
+}
+
+824={ #Qatnu
 	terrain="desert"
 	culture="assyrian"
 	religion="nestorian"

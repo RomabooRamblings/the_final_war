@@ -213,6 +213,9 @@ provinces = {
 	818 = {
 		fortress_building = 2
 	}
+	821 = { #Constantia
+		fortress_building = 2
+	}
 	829 = {
 		fortress_building = 1
 	}
@@ -221,7 +224,7 @@ provinces = {
 	}
 	841 = { #Amida
 	fortress_building = 2
-}
+	}
 	3341 = {
 		fortress_building = 1
 	}
@@ -673,6 +676,9 @@ provinces = {
 		fortress_building = 1
 	}
 	7606 = {
+		fortress_building = 1
+	}
+	7603 = {
 		fortress_building = 1
 	}
 	4563 = {
@@ -2722,12 +2728,12 @@ country = {
 				8003 8016 8018 #greece_region_new
 				### = Gains of 591 treaty between Maurice and Khosrow II
 				1581 1744 1747 1751 #upper_armenia_region
-				1575 1577 1588 1589 1590 1605 1606 #ayrarat_region
+				1575 1577 1586 1589 1590 1605 1606 #ayrarat_region
 				1549 1568 1569 1570 1576 1579 1580 1582 1583 1585#syracene_region
 				978 990 993 994 1562 1563 1564 1566 1567 1736 #tarawn_region
 				483 4037
-				1728 1756 1753 1752 1587 1586 1702 1755 1754 1697 1701
-				1609 1607 1610 1686 1677
+				1728 1756 1753 1752 1587 1702 1755 1754 1697 1701
+				1677
 
 				842 843 869 #corduene
 				992 846
@@ -2943,8 +2949,11 @@ country = {
 				997 1502 1503 1504 #North of Lake Urmia
 				3432 7723
 				828 829 908 #Doura Europos
-				1591 1592 #Lake Sevan East
+				
+				1588 1591 1592 #Lake Sevan East
 				1571 1572 1573 #Dvin and Persarmenia
+				1633 1647 1644 1642 7603 #Dagestan
+
 
 			}
 			pantheon = {
@@ -3884,6 +3893,7 @@ country = {
 				1695 1696 1699 1700 #gugark_region		
 				1703 1704
 				1678 1687
+				1609 1607 1610 1686 
 			}
 			
 		}
@@ -3913,9 +3923,9 @@ country = {
 			capital = 1636
 
 			own_control_core = 	{
-				1633 1634 1635 1636 1642 1644 1645 1647 1655 1656 1662 #caucasian_albania_region
+				1634 1635 1636 1645 1655 1656 1662 #caucasian_albania_region
 				1584 1608 1637 1646 1651 1661 1670 1671 1672 #arran_region
-				1641 1643 1659 1660 5435 7603 7604 7605
+				1641 1643 1659 1660 5435 7604 7605
 				1611 1657 1658 7621
 			}
 		
