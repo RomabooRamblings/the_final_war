@@ -1300,7 +1300,7 @@
 	culture="armenian"
 	religion="zoroaster"
 	trade_goods="horses"
-	civilization_value=40
+	civilization_value=35
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -1329,7 +1329,7 @@
 	}
 }
 
-1572={ #Doubios
+1572={ #Dvin
 	terrain="plains"
 	culture="armenian"
 	religion="chalcedonian"
@@ -1338,7 +1338,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount=5
 	}
 	freemen={
 		amount=7
@@ -1826,7 +1826,7 @@
 	trade_goods="stone"
 	civilization_value=40
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=3
 	}

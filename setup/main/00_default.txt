@@ -210,6 +210,9 @@ provinces = {
 	4787 = {
 		barracks_building = 1
 	}
+	818 = {
+		fortress_building = 2
+	}
 	829 = {
 		fortress_building = 1
 	}
@@ -231,6 +234,9 @@ provinces = {
 	1873 = {
 		fortress_building = 1
 	}
+	1744 = { #Theodosiopolis
+		fortress_building = 2
+	}
 	1730 = {
 		fortress_building = 1
 	}
@@ -243,11 +249,14 @@ provinces = {
 	1844 = {
 		fortress_building = 1
 	}
-	1859 = {
-		fortress_building = 1
+	1854 = { #Melitine
+		fortress_building = 2
 	}
+	#859 = {
+	#	fortress_building = 1
+	#}
 	1799 = {
-		fortress_building = 1
+		fortress_building = 2
 	}
 	1895 = {
 		fortress_building = 1
@@ -706,6 +715,9 @@ provinces = {
 	}
 	1571 = {
 		fortress_building = 1
+	}
+	1572 = {
+		fortress_building = 2
 	}
 	1617 = {
 		fortress_building = 1
@@ -2710,7 +2722,7 @@ country = {
 				8003 8016 8018 #greece_region_new
 				### = Gains of 591 treaty between Maurice and Khosrow II
 				1581 1744 1747 1751 #upper_armenia_region
-				1571 1572 1573 1575 1577 1588 1589 1590 1605 1606 #ayrarat_region
+				1575 1577 1588 1589 1590 1605 1606 #ayrarat_region
 				1549 1568 1569 1570 1576 1579 1580 1582 1583 1585#syracene_region
 				978 990 993 994 1562 1563 1564 1566 1567 1736 #tarawn_region
 				483 4037
@@ -2932,6 +2944,7 @@ country = {
 				3432 7723
 				828 829 908 #Doura Europos
 				1591 1592 #Lake Sevan East
+				1571 1572 1573 #Dvin and Persarmenia
 
 			}
 			pantheon = {
