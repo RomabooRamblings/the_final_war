@@ -160,11 +160,15 @@ province_rank="city"
 }
 
 832 = { #Nisibis
-province_rank="city"
+	province_rank="city"
+}
+
+836 = { #Samosata
+	province_rank="city"
 }
 
 841 = { #Amida
-province_rank="city"
+	province_rank="city"
 }
 
 

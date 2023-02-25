@@ -219,6 +219,9 @@ provinces = {
 	829 = {
 		fortress_building = 1
 	}
+	836 = { #Samosata
+	fortress_building = 2
+	}
 	872 = { #Dara
 		fortress_building = 3
 	}
