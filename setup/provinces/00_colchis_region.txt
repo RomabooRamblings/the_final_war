@@ -99,6 +99,10 @@
 	}
 }
 
+1612={#Tiflis
+	province_rank="city"
+}
+
 1677={ #Algeti
 	terrain="hills"
 	culture="ibero"
