@@ -159,6 +159,10 @@ province_rank="city"
 	}
 }
 
+827 = { #Circesium
+	province_rank="city"
+}
+
 832 = { #Nisibis
 	province_rank="city"
 }
