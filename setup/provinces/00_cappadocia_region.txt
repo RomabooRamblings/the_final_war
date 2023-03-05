@@ -627,14 +627,14 @@
 	}
 }
 
-1886={ #Dalanda
+1886={ #Tarantum
 	terrain="hills"
 	culture="cappadocian"
 	religion="chalcedonian"
 	trade_goods="honey"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=1
 	}
@@ -644,6 +644,7 @@
 	tribesmen={
 		amount=5
 	}
+	fortress_building = 2
 }
 
 1888={ #Podandus

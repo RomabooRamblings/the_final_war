@@ -284,8 +284,8 @@ provinces = {
 	790 = {
 		fortress_building = 3
 	}
-	750 = {
-		fortress_building = 1
+	750 = { #Damascus
+		fortress_building = 2
 	}
 	687 = {
 		fortress_building = 3
@@ -294,7 +294,7 @@ provinces = {
 		fortress_building = 1
 	}
 	516 = {
-		fortress_building = 1
+		fortress_building = 3
 		commerce_building = 2
 	}
 	3352 = {
